@@ -46,16 +46,52 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="duyuOrganlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="duyuOrganlari.Designer.cs">
+      <DependentUpon>duyuOrganlari.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="icOrganlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="icOrganlar.Designer.cs">
+      <DependentUpon>icOrganlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iskeletSistemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iskeletSistemi.Designer.cs">
+      <DependentUpon>iskeletSistemi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kasSistemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kasSistemi.Designer.cs">
+      <DependentUpon>kasSistemi.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="duyuOrganlari.resx">
+      <DependentUpon>duyuOrganlari.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="icOrganlar.resx">
+      <DependentUpon>icOrganlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iskeletSistemi.resx">
+      <DependentUpon>iskeletSistemi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kasSistemi.resx">
+      <DependentUpon>kasSistemi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
