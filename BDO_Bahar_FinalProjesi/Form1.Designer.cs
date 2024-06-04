@@ -49,10 +49,10 @@
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(9, 48);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(31, 99);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(190, 389);
+            this.pictureBox1.Size = new System.Drawing.Size(148, 246);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -60,10 +60,10 @@
             // 
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(211, 48);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox2.Location = new System.Drawing.Point(224, 99);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(190, 389);
+            this.pictureBox2.Size = new System.Drawing.Size(172, 246);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -71,10 +71,10 @@
             // 
             this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(406, 48);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox3.Location = new System.Drawing.Point(441, 99);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(190, 389);
+            this.pictureBox3.Size = new System.Drawing.Size(203, 246);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -82,19 +82,20 @@
             // 
             this.pictureBox4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox4.BackgroundImage")));
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox4.Location = new System.Drawing.Point(608, 48);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox4.Location = new System.Drawing.Point(669, 99);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(190, 389);
+            this.pictureBox4.Size = new System.Drawing.Size(217, 246);
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // btniskelet
             // 
-            this.btniskelet.Location = new System.Drawing.Point(9, 442);
-            this.btniskelet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btniskelet.Location = new System.Drawing.Point(31, 392);
+            this.btniskelet.Margin = new System.Windows.Forms.Padding(2);
             this.btniskelet.Name = "btniskelet";
-            this.btniskelet.Size = new System.Drawing.Size(190, 46);
+            this.btniskelet.Size = new System.Drawing.Size(148, 46);
             this.btniskelet.TabIndex = 4;
             this.btniskelet.Text = "İskelet Sistemi";
             this.btniskelet.UseVisualStyleBackColor = true;
@@ -102,10 +103,10 @@
             // 
             // btnkas
             // 
-            this.btnkas.Location = new System.Drawing.Point(211, 442);
-            this.btnkas.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnkas.Location = new System.Drawing.Point(235, 392);
+            this.btnkas.Margin = new System.Windows.Forms.Padding(2);
             this.btnkas.Name = "btnkas";
-            this.btnkas.Size = new System.Drawing.Size(190, 46);
+            this.btnkas.Size = new System.Drawing.Size(161, 46);
             this.btnkas.TabIndex = 5;
             this.btnkas.Text = "Kas Sistemi";
             this.btnkas.UseVisualStyleBackColor = true;
@@ -113,10 +114,10 @@
             // 
             // btnicorganlar
             // 
-            this.btnicorganlar.Location = new System.Drawing.Point(406, 442);
-            this.btnicorganlar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnicorganlar.Location = new System.Drawing.Point(451, 392);
+            this.btnicorganlar.Margin = new System.Windows.Forms.Padding(2);
             this.btnicorganlar.Name = "btnicorganlar";
-            this.btnicorganlar.Size = new System.Drawing.Size(190, 46);
+            this.btnicorganlar.Size = new System.Drawing.Size(179, 46);
             this.btnicorganlar.TabIndex = 6;
             this.btnicorganlar.Text = "İç organlar";
             this.btnicorganlar.UseVisualStyleBackColor = true;
@@ -124,10 +125,10 @@
             // 
             // btnduyuorganlari
             // 
-            this.btnduyuorganlari.Location = new System.Drawing.Point(608, 442);
-            this.btnduyuorganlari.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnduyuorganlari.Location = new System.Drawing.Point(704, 392);
+            this.btnduyuorganlari.Margin = new System.Windows.Forms.Padding(2);
             this.btnduyuorganlari.Name = "btnduyuorganlari";
-            this.btnduyuorganlari.Size = new System.Drawing.Size(190, 46);
+            this.btnduyuorganlari.Size = new System.Drawing.Size(182, 46);
             this.btnduyuorganlari.TabIndex = 7;
             this.btnduyuorganlari.Text = "Duyu Organları";
             this.btnduyuorganlari.UseVisualStyleBackColor = true;
@@ -159,7 +160,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(806, 538);
+            this.ClientSize = new System.Drawing.Size(911, 545);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnduyuorganlari);
@@ -170,7 +171,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

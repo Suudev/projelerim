@@ -41,60 +41,67 @@
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(317, 63);
+            this.pictureBox1.Location = new System.Drawing.Point(238, 51);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(291, 475);
+            this.pictureBox1.Size = new System.Drawing.Size(218, 386);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
             // btnKafa
             // 
-            this.btnKafa.Location = new System.Drawing.Point(614, 79);
+            this.btnKafa.Location = new System.Drawing.Point(460, 64);
+            this.btnKafa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnKafa.Name = "btnKafa";
-            this.btnKafa.Size = new System.Drawing.Size(85, 35);
+            this.btnKafa.Size = new System.Drawing.Size(64, 28);
             this.btnKafa.TabIndex = 2;
             this.btnKafa.Text = "Kafa";
             this.btnKafa.UseVisualStyleBackColor = true;
             // 
             // btnKol
             // 
-            this.btnKol.Location = new System.Drawing.Point(226, 185);
+            this.btnKol.Location = new System.Drawing.Point(170, 150);
+            this.btnKol.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnKol.Name = "btnKol";
-            this.btnKol.Size = new System.Drawing.Size(85, 35);
+            this.btnKol.Size = new System.Drawing.Size(64, 28);
             this.btnKol.TabIndex = 3;
             this.btnKol.Text = "Kol";
             this.btnKol.UseVisualStyleBackColor = true;
             // 
             // btnGovde
             // 
-            this.btnGovde.Location = new System.Drawing.Point(614, 250);
+            this.btnGovde.Location = new System.Drawing.Point(460, 203);
+            this.btnGovde.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnGovde.Name = "btnGovde";
-            this.btnGovde.Size = new System.Drawing.Size(85, 35);
+            this.btnGovde.Size = new System.Drawing.Size(64, 28);
             this.btnGovde.TabIndex = 4;
             this.btnGovde.Text = "Gövde";
             this.btnGovde.UseVisualStyleBackColor = true;
             // 
             // btnBacak
             // 
-            this.btnBacak.Location = new System.Drawing.Point(226, 400);
+            this.btnBacak.Location = new System.Drawing.Point(170, 325);
+            this.btnBacak.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnBacak.Name = "btnBacak";
-            this.btnBacak.Size = new System.Drawing.Size(85, 35);
+            this.btnBacak.Size = new System.Drawing.Size(64, 28);
             this.btnBacak.TabIndex = 5;
             this.btnBacak.Text = "Bacak";
             this.btnBacak.UseVisualStyleBackColor = true;
             // 
             // kasSistemi
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(952, 618);
+            this.ClientSize = new System.Drawing.Size(714, 502);
             this.Controls.Add(this.btnBacak);
             this.Controls.Add(this.btnGovde);
             this.Controls.Add(this.btnKol);
             this.Controls.Add(this.btnKafa);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "kasSistemi";
             this.Text = "kasSistemi";
+            this.Load += new System.EventHandler(this.kasSistemi_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

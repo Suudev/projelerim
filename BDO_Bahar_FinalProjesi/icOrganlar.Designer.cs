@@ -30,73 +30,43 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(icOrganlar));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnKafa = new System.Windows.Forms.Button();
-            this.btnGogus = new System.Windows.Forms.Button();
-            this.btnUstKarin = new System.Windows.Forms.Button();
-            this.btnAltKarin = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(315, 55);
+            this.pictureBox1.Location = new System.Drawing.Point(138, 107);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(289, 475);
+            this.pictureBox1.Size = new System.Drawing.Size(349, 370);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // btnKafa
+            // pictureBox2
             // 
-            this.btnKafa.Location = new System.Drawing.Point(610, 69);
-            this.btnKafa.Name = "btnKafa";
-            this.btnKafa.Size = new System.Drawing.Size(85, 35);
-            this.btnKafa.TabIndex = 3;
-            this.btnKafa.Text = "Kafa";
-            this.btnKafa.UseVisualStyleBackColor = true;
-            // 
-            // btnGogus
-            // 
-            this.btnGogus.Location = new System.Drawing.Point(224, 236);
-            this.btnGogus.Name = "btnGogus";
-            this.btnGogus.Size = new System.Drawing.Size(85, 35);
-            this.btnGogus.TabIndex = 4;
-            this.btnGogus.Text = "Göğüs";
-            this.btnGogus.UseVisualStyleBackColor = true;
-            // 
-            // btnUstKarin
-            // 
-            this.btnUstKarin.Location = new System.Drawing.Point(610, 310);
-            this.btnUstKarin.Name = "btnUstKarin";
-            this.btnUstKarin.Size = new System.Drawing.Size(85, 35);
-            this.btnUstKarin.TabIndex = 5;
-            this.btnUstKarin.Text = "Üst Karın";
-            this.btnUstKarin.UseVisualStyleBackColor = true;
-            // 
-            // btnAltKarin
-            // 
-            this.btnAltKarin.Location = new System.Drawing.Point(224, 405);
-            this.btnAltKarin.Name = "btnAltKarin";
-            this.btnAltKarin.Size = new System.Drawing.Size(85, 35);
-            this.btnAltKarin.TabIndex = 6;
-            this.btnAltKarin.Text = "Alt Karın";
-            this.btnAltKarin.UseVisualStyleBackColor = true;
+            this.pictureBox2.Location = new System.Drawing.Point(175, 18);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(204, 84);
+            this.pictureBox2.TabIndex = 2;
+            this.pictureBox2.TabStop = false;
             // 
             // icOrganlar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(952, 618);
-            this.Controls.Add(this.btnAltKarin);
-            this.Controls.Add(this.btnUstKarin);
-            this.Controls.Add(this.btnGogus);
-            this.Controls.Add(this.btnKafa);
+            this.ClientSize = new System.Drawing.Size(714, 502);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "icOrganlar";
             this.Text = "icOrganlar";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -104,9 +74,6 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Button btnKafa;
-        private System.Windows.Forms.Button btnGogus;
-        private System.Windows.Forms.Button btnUstKarin;
-        private System.Windows.Forms.Button btnAltKarin;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

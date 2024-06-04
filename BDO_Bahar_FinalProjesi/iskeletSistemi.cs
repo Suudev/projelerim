@@ -18,7 +18,7 @@ namespace BDO_Bahar_FinalProjesi
             this.btnKafa.Click += new EventHandler(this.btnKafa_Click);
             this.btnKol.Click += new EventHandler(this.btnKol_Click);
             this.btnBacak.Click += new EventHandler(this.btnBacak_Click);
-            this.btnGovde.Click += new EventHandler(this.btnovde_Click);
+            this.btnGovde.Click += new EventHandler(this.btnGovde_Click);
         }
 
         private void btnKafa_Click(object sender, EventArgs e)
@@ -36,7 +36,7 @@ namespace BDO_Bahar_FinalProjesi
             FormBacak formBacak = new FormBacak();
             formBacak.ShowDialog();
         }
-        private void btnGovde(object sender, EventArgs e)
+        private void btnGovde_Click(object sender, EventArgs e)
         {
             FormGovde formGovde = new FormGovde();
             formGovde.ShowDialog();

@@ -15,3 +15,4 @@ C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_F
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde.resources

@@ -41,19 +41,19 @@
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(234, 38);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(213, 21);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(217, 414);
+            this.pictureBox1.Size = new System.Drawing.Size(249, 470);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // btnKafa
             // 
-            this.btnKafa.Location = new System.Drawing.Point(455, 53);
-            this.btnKafa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnKafa.Location = new System.Drawing.Point(222, 40);
+            this.btnKafa.Margin = new System.Windows.Forms.Padding(2);
             this.btnKafa.Name = "btnKafa";
-            this.btnKafa.Size = new System.Drawing.Size(64, 28);
+            this.btnKafa.Size = new System.Drawing.Size(53, 25);
             this.btnKafa.TabIndex = 1;
             this.btnKafa.Text = "Kafa";
             this.btnKafa.UseVisualStyleBackColor = true;
@@ -61,30 +61,30 @@
             // 
             // btnKol
             // 
-            this.btnKol.Location = new System.Drawing.Point(166, 151);
-            this.btnKol.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnKol.Location = new System.Drawing.Point(406, 72);
+            this.btnKol.Margin = new System.Windows.Forms.Padding(2);
             this.btnKol.Name = "btnKol";
-            this.btnKol.Size = new System.Drawing.Size(64, 28);
+            this.btnKol.Size = new System.Drawing.Size(56, 24);
             this.btnKol.TabIndex = 2;
             this.btnKol.Text = "Kol";
             this.btnKol.UseVisualStyleBackColor = true;
             // 
             // btnGovde
             // 
-            this.btnGovde.Location = new System.Drawing.Point(455, 195);
-            this.btnGovde.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnGovde.Location = new System.Drawing.Point(222, 324);
+            this.btnGovde.Margin = new System.Windows.Forms.Padding(2);
             this.btnGovde.Name = "btnGovde";
-            this.btnGovde.Size = new System.Drawing.Size(64, 28);
+            this.btnGovde.Size = new System.Drawing.Size(53, 24);
             this.btnGovde.TabIndex = 3;
             this.btnGovde.Text = "Gövde";
             this.btnGovde.UseVisualStyleBackColor = true;
             // 
             // btnBacak
             // 
-            this.btnBacak.Location = new System.Drawing.Point(166, 342);
-            this.btnBacak.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnBacak.Location = new System.Drawing.Point(391, 357);
+            this.btnBacak.Margin = new System.Windows.Forms.Padding(2);
             this.btnBacak.Name = "btnBacak";
-            this.btnBacak.Size = new System.Drawing.Size(64, 28);
+            this.btnBacak.Size = new System.Drawing.Size(59, 26);
             this.btnBacak.TabIndex = 4;
             this.btnBacak.Text = "Bacak";
             this.btnBacak.UseVisualStyleBackColor = true;
@@ -99,7 +99,7 @@
             this.Controls.Add(this.btnKol);
             this.Controls.Add(this.btnKafa);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "iskeletSistemi";
             this.Text = "iskeletSistemi";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -16,5 +16,10 @@ namespace BDO_Bahar_FinalProjesi
         {
             InitializeComponent();
         }
+
+        private void kasSistemi_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
