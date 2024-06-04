@@ -58,6 +58,30 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormBacak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBacak.Designer.cs">
+      <DependentUpon>FormBacak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGovde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGovde.Designer.cs">
+      <DependentUpon>FormGovde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKafa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKafa.Designer.cs">
+      <DependentUpon>FormKafa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKol.Designer.cs">
+      <DependentUpon>FormKol.cs</DependentUpon>
+    </Compile>
     <Compile Include="icOrganlar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +107,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBacak.resx">
+      <DependentUpon>FormBacak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGovde.resx">
+      <DependentUpon>FormGovde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKafa.resx">
+      <DependentUpon>FormKafa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKol.resx">
+      <DependentUpon>FormKol.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="icOrganlar.resx">
       <DependentUpon>icOrganlar.cs</DependentUpon>

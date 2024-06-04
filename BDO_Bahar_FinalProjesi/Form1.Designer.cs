@@ -49,9 +49,10 @@
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 59);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 48);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(254, 479);
+            this.pictureBox1.Size = new System.Drawing.Size(190, 389);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -59,9 +60,10 @@
             // 
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(281, 59);
+            this.pictureBox2.Location = new System.Drawing.Point(211, 48);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(254, 479);
+            this.pictureBox2.Size = new System.Drawing.Size(190, 389);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -69,9 +71,10 @@
             // 
             this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(541, 59);
+            this.pictureBox3.Location = new System.Drawing.Point(406, 48);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(254, 479);
+            this.pictureBox3.Size = new System.Drawing.Size(190, 389);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -79,17 +82,19 @@
             // 
             this.pictureBox4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox4.BackgroundImage")));
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox4.Location = new System.Drawing.Point(810, 59);
+            this.pictureBox4.Location = new System.Drawing.Point(608, 48);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(254, 479);
+            this.pictureBox4.Size = new System.Drawing.Size(190, 389);
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
             // 
             // btniskelet
             // 
-            this.btniskelet.Location = new System.Drawing.Point(12, 544);
+            this.btniskelet.Location = new System.Drawing.Point(9, 442);
+            this.btniskelet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btniskelet.Name = "btniskelet";
-            this.btniskelet.Size = new System.Drawing.Size(254, 57);
+            this.btniskelet.Size = new System.Drawing.Size(190, 46);
             this.btniskelet.TabIndex = 4;
             this.btniskelet.Text = "İskelet Sistemi";
             this.btniskelet.UseVisualStyleBackColor = true;
@@ -97,9 +102,10 @@
             // 
             // btnkas
             // 
-            this.btnkas.Location = new System.Drawing.Point(281, 544);
+            this.btnkas.Location = new System.Drawing.Point(211, 442);
+            this.btnkas.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnkas.Name = "btnkas";
-            this.btnkas.Size = new System.Drawing.Size(254, 57);
+            this.btnkas.Size = new System.Drawing.Size(190, 46);
             this.btnkas.TabIndex = 5;
             this.btnkas.Text = "Kas Sistemi";
             this.btnkas.UseVisualStyleBackColor = true;
@@ -107,9 +113,10 @@
             // 
             // btnicorganlar
             // 
-            this.btnicorganlar.Location = new System.Drawing.Point(541, 544);
+            this.btnicorganlar.Location = new System.Drawing.Point(406, 442);
+            this.btnicorganlar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnicorganlar.Name = "btnicorganlar";
-            this.btnicorganlar.Size = new System.Drawing.Size(254, 57);
+            this.btnicorganlar.Size = new System.Drawing.Size(190, 46);
             this.btnicorganlar.TabIndex = 6;
             this.btnicorganlar.Text = "İç organlar";
             this.btnicorganlar.UseVisualStyleBackColor = true;
@@ -117,9 +124,10 @@
             // 
             // btnduyuorganlari
             // 
-            this.btnduyuorganlari.Location = new System.Drawing.Point(810, 544);
+            this.btnduyuorganlari.Location = new System.Drawing.Point(608, 442);
+            this.btnduyuorganlari.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnduyuorganlari.Name = "btnduyuorganlari";
-            this.btnduyuorganlari.Size = new System.Drawing.Size(254, 57);
+            this.btnduyuorganlari.Size = new System.Drawing.Size(190, 46);
             this.btnduyuorganlari.TabIndex = 7;
             this.btnduyuorganlari.Text = "Duyu Organları";
             this.btnduyuorganlari.UseVisualStyleBackColor = true;
@@ -129,9 +137,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F);
-            this.label1.Location = new System.Drawing.Point(395, 9);
+            this.label1.Location = new System.Drawing.Point(296, 7);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(291, 48);
+            this.label1.Size = new System.Drawing.Size(238, 39);
             this.label1.TabIndex = 8;
             this.label1.Text = "Dijital Kadavra";
             // 
@@ -139,17 +148,18 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label2.Location = new System.Drawing.Point(363, 633);
+            this.label2.Location = new System.Drawing.Point(272, 514);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(352, 20);
+            this.label2.Size = new System.Drawing.Size(295, 17);
             this.label2.TabIndex = 9;
             this.label2.Text = "Lütfen bilgi almak istediğiniz bölüme tıklayınız.";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1079, 662);
+            this.ClientSize = new System.Drawing.Size(806, 538);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnduyuorganlari);
@@ -160,6 +170,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
