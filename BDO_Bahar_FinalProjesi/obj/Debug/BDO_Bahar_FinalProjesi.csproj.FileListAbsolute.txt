@@ -16,3 +16,8 @@ C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_F
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAkciger.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBeyin.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalp.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKaraciger.resources
+C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalın.resources

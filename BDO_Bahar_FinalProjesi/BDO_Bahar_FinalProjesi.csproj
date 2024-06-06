@@ -58,11 +58,29 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAkciger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAkciger.Designer.cs">
+      <DependentUpon>FormAkciger.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormBacak.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormBacak.Designer.cs">
       <DependentUpon>FormBacak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBeyin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBeyin.Designer.cs">
+      <DependentUpon>FormBeyin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDalak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDalak.Designer.cs">
+      <DependentUpon>FormDalak.cs</DependentUpon>
     </Compile>
     <Compile Include="FormGovde.cs">
       <SubType>Form</SubType>
@@ -70,17 +88,47 @@
     <Compile Include="FormGovde.Designer.cs">
       <DependentUpon>FormGovde.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormInce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInce.Designer.cs">
+      <DependentUpon>FormInce.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormKafa.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormKafa.Designer.cs">
       <DependentUpon>FormKafa.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormKalp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKalp.Designer.cs">
+      <DependentUpon>FormKalp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKalın.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKalın.Designer.cs">
+      <DependentUpon>FormKalın.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKaraciger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKaraciger.Designer.cs">
+      <DependentUpon>FormKaraciger.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormKol.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormKol.Designer.cs">
       <DependentUpon>FormKol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMide.Designer.cs">
+      <DependentUpon>FormMide.cs</DependentUpon>
     </Compile>
     <Compile Include="icOrganlar.cs">
       <SubType>Form</SubType>
@@ -108,14 +156,29 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormAkciger.resx">
+      <DependentUpon>FormAkciger.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormBacak.resx">
       <DependentUpon>FormBacak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBeyin.resx">
+      <DependentUpon>FormBeyin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormGovde.resx">
       <DependentUpon>FormGovde.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormKafa.resx">
       <DependentUpon>FormKafa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKalp.resx">
+      <DependentUpon>FormKalp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKalın.resx">
+      <DependentUpon>FormKalın.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKaraciger.resx">
+      <DependentUpon>FormKaraciger.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormKol.resx">
       <DependentUpon>FormKol.cs</DependentUpon>

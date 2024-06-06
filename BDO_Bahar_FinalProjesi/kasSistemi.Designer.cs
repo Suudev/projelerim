@@ -41,17 +41,18 @@
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(238, 51);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(1, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(218, 386);
+            this.pictureBox1.Size = new System.Drawing.Size(491, 548);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
             // btnKafa
             // 
-            this.btnKafa.Location = new System.Drawing.Point(460, 64);
-            this.btnKafa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnKafa.Location = new System.Drawing.Point(395, 48);
+            this.btnKafa.Margin = new System.Windows.Forms.Padding(2);
             this.btnKafa.Name = "btnKafa";
             this.btnKafa.Size = new System.Drawing.Size(64, 28);
             this.btnKafa.TabIndex = 2;
@@ -60,8 +61,8 @@
             // 
             // btnKol
             // 
-            this.btnKol.Location = new System.Drawing.Point(170, 150);
-            this.btnKol.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnKol.Location = new System.Drawing.Point(395, 156);
+            this.btnKol.Margin = new System.Windows.Forms.Padding(2);
             this.btnKol.Name = "btnKol";
             this.btnKol.Size = new System.Drawing.Size(64, 28);
             this.btnKol.TabIndex = 3;
@@ -70,8 +71,8 @@
             // 
             // btnGovde
             // 
-            this.btnGovde.Location = new System.Drawing.Point(460, 203);
-            this.btnGovde.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnGovde.Location = new System.Drawing.Point(395, 300);
+            this.btnGovde.Margin = new System.Windows.Forms.Padding(2);
             this.btnGovde.Name = "btnGovde";
             this.btnGovde.Size = new System.Drawing.Size(64, 28);
             this.btnGovde.TabIndex = 4;
@@ -80,8 +81,8 @@
             // 
             // btnBacak
             // 
-            this.btnBacak.Location = new System.Drawing.Point(170, 325);
-            this.btnBacak.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnBacak.Location = new System.Drawing.Point(395, 406);
+            this.btnBacak.Margin = new System.Windows.Forms.Padding(2);
             this.btnBacak.Name = "btnBacak";
             this.btnBacak.Size = new System.Drawing.Size(64, 28);
             this.btnBacak.TabIndex = 5;
@@ -92,13 +93,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(714, 502);
+            this.ClientSize = new System.Drawing.Size(490, 544);
             this.Controls.Add(this.btnBacak);
             this.Controls.Add(this.btnGovde);
             this.Controls.Add(this.btnKol);
             this.Controls.Add(this.btnKafa);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "kasSistemi";
             this.Text = "kasSistemi";
             this.Load += new System.EventHandler(this.kasSistemi_Load);
