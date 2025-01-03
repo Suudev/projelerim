@@ -1,98 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\",
+  "WorkspaceRootPath": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\bdo_final_kodlar\\bdo\\otomata\\bdo_bahar_finalprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\FormBobrek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:FormBobrek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\iskeletsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:iskeletsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\kassistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:kassistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\icorganlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:icorganlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\otomat\\otomata\\bdo_bahar_finalprojesi\\duyuorganlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:duyuorganlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|c:\\users\\cicikus\\desktop\\bdo_final_kodlar\\bdo\\otomata\\bdo_bahar_finalprojesi\\formkaraciger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1849BCEF-E76C-4CFE-98DE-D6AA246EF9FE}|BDO_Bahar_FinalProjesi.csproj|solutionrelative:formkaraciger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 355,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "duyuOrganlari.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\duyuOrganlari.cs",
-              "RelativeDocumentMoniker": "duyuOrganlari.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\duyuOrganlari.cs [Tasar\u0131m]",
-              "RelativeToolTip": "duyuOrganlari.cs [Tasar\u0131m]",
+              "DocumentIndex": 1,
+              "Title": "FormBobrek.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\FormBobrek.cs",
+              "RelativeDocumentMoniker": "FormBobrek.cs",
+              "ToolTip": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\FormBobrek.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormBobrek.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:36:52.933Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "icOrganlar.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\icOrganlar.cs",
-              "RelativeDocumentMoniker": "icOrganlar.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\icOrganlar.cs [Tasar\u0131m]",
-              "RelativeToolTip": "icOrganlar.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:36:41.529Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "kasSistemi.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\kasSistemi.cs",
-              "RelativeDocumentMoniker": "kasSistemi.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\kasSistemi.cs [Tasar\u0131m]",
-              "RelativeToolTip": "kasSistemi.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:36:30.235Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-06-07T07:27:42.908Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "iskeletSistemi.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\iskeletSistemi.cs",
-              "RelativeDocumentMoniker": "iskeletSistemi.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\iskeletSistemi.cs [Tasar\u0131m]",
-              "RelativeToolTip": "iskeletSistemi.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:36:17.825Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAnwDEAAAAYAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T10:58:04.02Z",
               "EditorCaption": ""
@@ -101,13 +56,36 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\cicikus\\Desktop\\otomat\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\Form1.cs [Tasar\u0131m]",
               "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T09:00:38.847Z",
               "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 45,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKaraciger.cs",
+              "DocumentMoniker": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\FormKaraciger.cs",
+              "RelativeDocumentMoniker": "FormKaraciger.cs",
+              "ToolTip": "C:\\Users\\cicikus\\Desktop\\BDO_Final_Kodlar\\bdo\\Otomata\\BDO_Bahar_FinalProjesi\\FormKaraciger.cs",
+              "RelativeToolTip": "FormKaraciger.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAuwEcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:41:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

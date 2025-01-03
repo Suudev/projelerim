@@ -15,6 +15,7 @@ namespace BDO_Bahar_FinalProjesi
         public FormBeyin()
         {
             InitializeComponent();
+            this.Load += new EventHandler(this.FormBeyin_Load);
         }
 
         private void FormBeyin_Load(object sender, EventArgs e)
@@ -120,6 +121,13 @@ namespace BDO_Bahar_FinalProjesi
             }
 
             MessageBox.Show(details, "Beyin Detayları");
+        }
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
     }
     }

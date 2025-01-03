@@ -15,31 +15,50 @@ namespace BDO_Bahar_FinalProjesi
         public iskeletSistemi()
         {
             InitializeComponent();
-            this.btnKafa.Click += new EventHandler(this.btnKafa_Click);
-            this.btnKol.Click += new EventHandler(this.btnKol_Click);
-            this.btnBacak.Click += new EventHandler(this.btnBacak_Click);
-            this.btnGovde.Click += new EventHandler(this.btnGovde_Click);
+            
         }
 
         private void btnKafa_Click(object sender, EventArgs e)
         {
             FormKafa formKafa = new FormKafa();
-            formKafa.ShowDialog();
+            formKafa.Show();
+            this.Close();
         }
-        private void btnKol_Click(object sender, EventArgs e)
+       
+      
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
         {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
+
+        private void iskeletSistemi_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnKol_Click_1(object sender, EventArgs e)
+        {
+
             FormKol formKol = new FormKol();
-            formKol.ShowDialog();
+            formKol.Show();
+            this.Close();
         }
-        private void btnBacak_Click(object sender, EventArgs e)
-        {
-            FormBacak formBacak = new FormBacak();
-            formBacak.ShowDialog();
-        }
-        private void btnGovde_Click(object sender, EventArgs e)
+
+        private void btnGovde_Click_1(object sender, EventArgs e)
         {
             FormGovde formGovde = new FormGovde();
-            formGovde.ShowDialog();
+            formGovde.Show();
+            this.Close();
+        }
+
+        private void btnBacak_Click_1(object sender, EventArgs e)
+        {
+            FormBacak formBacak = new FormBacak();
+            formBacak.Show();
+            this.Close();
         }
     }
 }

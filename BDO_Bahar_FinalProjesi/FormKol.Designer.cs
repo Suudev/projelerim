@@ -35,12 +35,13 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.btnAnaMenu = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(168, 35);
+            this.label1.Location = new System.Drawing.Point(161, 35);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(57, 13);
             this.label1.TabIndex = 0;
@@ -67,7 +68,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(325, 309);
+            this.label4.Location = new System.Drawing.Point(342, 309);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(29, 13);
             this.label4.TabIndex = 3;
@@ -76,7 +77,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(525, 84);
+            this.label5.Location = new System.Drawing.Point(517, 85);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(40, 13);
             this.label5.TabIndex = 4;
@@ -91,6 +92,18 @@
             this.label6.TabIndex = 5;
             this.label6.Text = "Humerus";
             // 
+            // btnAnaMenu
+            // 
+            this.btnAnaMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnAnaMenu.Location = new System.Drawing.Point(769, 309);
+            this.btnAnaMenu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAnaMenu.Name = "btnAnaMenu";
+            this.btnAnaMenu.Size = new System.Drawing.Size(78, 34);
+            this.btnAnaMenu.TabIndex = 19;
+            this.btnAnaMenu.Text = "Ana Menü";
+            this.btnAnaMenu.UseVisualStyleBackColor = false;
+            this.btnAnaMenu.Click += new System.EventHandler(this.btnAnaMenu_Click);
+            // 
             // FormKol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -98,6 +111,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(846, 347);
+            this.Controls.Add(this.btnAnaMenu);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -120,5 +134,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btnAnaMenu;
     }
 }

@@ -58,6 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAgiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAgiz.Designer.cs">
+      <DependentUpon>FormAgiz.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormAkciger.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,23 +76,53 @@
     <Compile Include="FormBacak.Designer.cs">
       <DependentUpon>FormBacak.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormBacak_kas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBacak_kas.Designer.cs">
+      <DependentUpon>FormBacak_kas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormBeyin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormBeyin.Designer.cs">
       <DependentUpon>FormBeyin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormDalak.cs">
+    <Compile Include="FormBobrek.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormDalak.Designer.cs">
-      <DependentUpon>FormDalak.cs</DependentUpon>
+    <Compile Include="FormBobrek.Designer.cs">
+      <DependentUpon>FormBobrek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBurun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBurun.Designer.cs">
+      <DependentUpon>FormBurun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeri.Designer.cs">
+      <DependentUpon>FormDeri.cs</DependentUpon>
     </Compile>
     <Compile Include="FormGovde.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormGovde.Designer.cs">
       <DependentUpon>FormGovde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGovde_kas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGovde_kas.Designer.cs">
+      <DependentUpon>FormGovde_kas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoz.Designer.cs">
+      <DependentUpon>FormGoz.cs</DependentUpon>
     </Compile>
     <Compile Include="FormInce.cs">
       <SubType>Form</SubType>
@@ -99,6 +135,12 @@
     </Compile>
     <Compile Include="FormKafa.Designer.cs">
       <DependentUpon>FormKafa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKafa_kas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKafa_kas.Designer.cs">
+      <DependentUpon>FormKafa_kas.cs</DependentUpon>
     </Compile>
     <Compile Include="FormKalp.cs">
       <SubType>Form</SubType>
@@ -123,6 +165,18 @@
     </Compile>
     <Compile Include="FormKol.Designer.cs">
       <DependentUpon>FormKol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKol_kas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKol_kas.Designer.cs">
+      <DependentUpon>FormKol_kas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKulak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKulak.Designer.cs">
+      <DependentUpon>FormKulak.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMide.cs">
       <SubType>Form</SubType>
@@ -156,20 +210,47 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormAgiz.resx">
+      <DependentUpon>FormAgiz.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormAkciger.resx">
       <DependentUpon>FormAkciger.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormBacak.resx">
       <DependentUpon>FormBacak.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormBacak_kas.resx">
+      <DependentUpon>FormBacak_kas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormBeyin.resx">
       <DependentUpon>FormBeyin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBobrek.resx">
+      <DependentUpon>FormBobrek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBurun.resx">
+      <DependentUpon>FormBurun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeri.resx">
+      <DependentUpon>FormDeri.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormGovde.resx">
       <DependentUpon>FormGovde.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormGovde_kas.resx">
+      <DependentUpon>FormGovde_kas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoz.resx">
+      <DependentUpon>FormGoz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInce.resx">
+      <DependentUpon>FormInce.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormKafa.resx">
       <DependentUpon>FormKafa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKafa_kas.resx">
+      <DependentUpon>FormKafa_kas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormKalp.resx">
       <DependentUpon>FormKalp.cs</DependentUpon>
@@ -182,6 +263,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormKol.resx">
       <DependentUpon>FormKol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKol_kas.resx">
+      <DependentUpon>FormKol_kas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKulak.resx">
+      <DependentUpon>FormKulak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMide.resx">
+      <DependentUpon>FormMide.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="icOrganlar.resx">
       <DependentUpon>icOrganlar.cs</DependentUpon>

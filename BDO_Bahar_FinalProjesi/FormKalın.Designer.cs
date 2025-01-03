@@ -37,15 +37,17 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.btnAnaMenu = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(95, 0);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 1);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(589, 447);
+            this.pictureBox1.Size = new System.Drawing.Size(785, 550);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -53,54 +55,60 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(171, 216);
+            this.label1.Location = new System.Drawing.Point(101, 267);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 13);
+            this.label1.Size = new System.Drawing.Size(78, 16);
             this.label1.TabIndex = 1;
             this.label1.Text = "Çıkan Kolon";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(171, 265);
+            this.label2.Location = new System.Drawing.Point(101, 327);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(40, 13);
+            this.label2.Size = new System.Drawing.Size(49, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Çekum";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(187, 318);
+            this.label3.Location = new System.Drawing.Point(122, 392);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(51, 13);
+            this.label3.Size = new System.Drawing.Size(64, 16);
             this.label3.TabIndex = 3;
             this.label3.Text = "Apendiks";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(540, 37);
+            this.label4.Location = new System.Drawing.Point(593, 47);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(81, 13);
+            this.label4.Size = new System.Drawing.Size(101, 16);
             this.label4.TabIndex = 4;
             this.label4.Text = "Tansvers Kolon";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(572, 216);
+            this.label5.Location = new System.Drawing.Point(636, 267);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(58, 13);
+            this.label5.Size = new System.Drawing.Size(69, 16);
             this.label5.TabIndex = 5;
             this.label5.Text = "İnen Kolon";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(572, 303);
+            this.label6.Location = new System.Drawing.Point(636, 374);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(74, 13);
+            this.label6.Size = new System.Drawing.Size(94, 16);
             this.label6.TabIndex = 6;
             this.label6.Text = "Sigmoid Kolon";
             this.label6.Click += new System.EventHandler(this.label6_Click);
@@ -108,17 +116,30 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(555, 387);
+            this.label7.Location = new System.Drawing.Point(613, 477);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(44, 13);
+            this.label7.Size = new System.Drawing.Size(53, 16);
             this.label7.TabIndex = 7;
             this.label7.Text = "Rektum";
             // 
+            // btnAnaMenu
+            // 
+            this.btnAnaMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnAnaMenu.Location = new System.Drawing.Point(706, 518);
+            this.btnAnaMenu.Name = "btnAnaMenu";
+            this.btnAnaMenu.Size = new System.Drawing.Size(79, 33);
+            this.btnAnaMenu.TabIndex = 19;
+            this.btnAnaMenu.Text = "Ana Menü";
+            this.btnAnaMenu.UseVisualStyleBackColor = false;
+            this.btnAnaMenu.Click += new System.EventHandler(this.btnAnaMenu_Click);
+            // 
             // FormKalın
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(785, 554);
+            this.Controls.Add(this.btnAnaMenu);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -127,6 +148,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormKalın";
             this.Text = "FormKalın";
             this.Load += new System.EventHandler(this.FormKalın_Load);
@@ -146,5 +168,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button btnAnaMenu;
     }
 }

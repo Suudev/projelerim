@@ -57,7 +57,7 @@ namespace BDO_Bahar_FinalProjesi
             {
                 details = "Çıkan Kolon, karnın sağ üst tarafında yer alır ve aslen incebağırsak ile bağlantılıdır. Yemeklerin son aşamasında suyun emilimi gerçekleşir. Bu bölgede divertiküloz gibi durumlar ortaya çıkabilir.Çıkan kolon, çekumdan sonraki kolon segmentidir, yaklaşık 12,5-20 cm uzunluğundadır, yukarı (karaciğere) doğru çıkar, karaciğer sağ lobunun altından keskin bir dönüş yaparak sola döner (hepatik fleksura) ve dalağa doğru gider (transvers kolon). Çıkan kolonun sadece lateral, ön yüzü ve mediali peritonla kaplıdır bu yüzden retroperitoneal kabul edilir (inen kolon gibi).\r\n\r\nHepatik fleksura, sağ böbrek alt kutbunun ve duodenumun inen kısmının (2. kıta) önünde, safra kesesinin lateralinde kalır.";
             }
-            else if (kalınPart == "Inen Kolon")
+            else if (kalınPart == "İnen Kolon")
             {
                 details = "Inen Kolon, karın bölgesinin sağ tarafında bulunur ve çıkan kolonun devamı niteliğindedir. Besinlerin sindiriminden sonra atıkların şekillendirildiği yerdir. Kolon kanseri gibi ciddi sağlık sorunları bu bölgede görülebilir.";
             }
@@ -65,7 +65,7 @@ namespace BDO_Bahar_FinalProjesi
             {
                 details = "Sigmoid Kolon, ince bağırsak ile rektum arasında yer alır ve kolonun son kısmını oluşturur. Katı atıkların geçişi ve depolanması bu bölgede gerçekleşir. Bu bölgede divertikülit gibi durumlar ortaya çıkabilir.";
             }
-            else if (kalınPart == "Transvers Kolon")
+            else if (kalınPart == "Tansvers Kolon")
             {
                 details = " Transvers kolon, hepatik fleksuradan başlayıp splenik fleksuraya uzanan, aşağı doğru kavisli, yatay kolon parçasıdır. 40-50 cm uzunluğundadır. Tamamen intraperitoneal dir ve mezosu vardır (transvers mezokolon), kolonun en mobil kısmıdır.\r\n\r\nTransvers mezokolon, karın boşluğunu iki kompartmana ayırır; supra-mezokolik ve infra-mezokolik boşluk (kompartman). Transvers mezokolon böylece peritonit ve apsenin yayılımında doğal bir bariyer görevi görür.\r\n\r\nTransvers kolon anterosuperior kısmından, mide büyük kurvatürüne gastrokolik omentum (ligament) ile bağlıdır. Gastrokolik ligament, kolonoskopide transvers kolonun içeriden üçgenimsi (trianguler) görünmesine neden olur. Gastrokolik ligament aşağıya bir mutfak önlüğü gibi uzanarak, karın içi organların üzerini örter (omentum majus). Gastrokolik ligament açıldığında, bursa omentalise girilmiş olur (lesser sac). Başka bir deyişle midenin arka yüzüne ve pankreasa ulaşılır. Örneğin, mide yaralanmalarında midenin arka yüzünü kontrol etmek için, distal pankreatektomilerde gastrokolik ligaman (ligament) açılır. ";
             }
@@ -78,6 +78,13 @@ namespace BDO_Bahar_FinalProjesi
         private void label6_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
     }
 }

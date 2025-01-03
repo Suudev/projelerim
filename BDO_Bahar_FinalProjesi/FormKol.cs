@@ -94,5 +94,13 @@ namespace BDO_Bahar_FinalProjesi
             MessageBox.Show(details, "Kol ve El Kemikleri Detayları");
 
         }
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+
+        }
     }
 }

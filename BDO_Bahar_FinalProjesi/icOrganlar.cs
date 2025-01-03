@@ -19,7 +19,7 @@ namespace BDO_Bahar_FinalProjesi
             this.btnAkciger.Click += new EventHandler(this.btnAkciger_Click);
             this.btnKalp.Click += new EventHandler(this.btnKalp_Click);
             this.btnKaraciger.Click += new EventHandler(this.btnKaraciger_Click);
-            this.btnDalak.Click += new EventHandler(this.btnDalak_Click);
+            
             this.btnMide.Click += new EventHandler(this.btnMide_Click);
             this.btnInce.Click += new EventHandler(this.btnInce_Click);
             this.btnKalın.Click += new EventHandler(this.btnKalın_Click);
@@ -27,44 +27,46 @@ namespace BDO_Bahar_FinalProjesi
         private void btnBeyin_Click(object sender, EventArgs e)
         {
             FormBeyin formBeyin = new FormBeyin();
-            formBeyin.ShowDialog();
-
+            formBeyin.Show();
+            this.Hide();
 
         }
         private void btnAkciger_Click(object sender,EventArgs e)
         {
             FormAkciger formAkciger = new FormAkciger();
-            formAkciger.ShowDialog();
+            formAkciger.Show();
+            this.Hide();
         }
         private void btnKalp_Click(object sender, EventArgs e)
         {
             FormKalp formKalp = new FormKalp();
-            formKalp.ShowDialog();
+            formKalp.Show();
+            this.Hide();
         }
         private void btnKaraciger_Click(object sender, EventArgs e)
         {
             FormKaraciger formKaraciger = new FormKaraciger();
-            formKaraciger.ShowDialog();
+            formKaraciger.Show();
+            this.Hide();
         }
-        private void btnDalak_Click(object sender, EventArgs e)
-        {
-            FormDalak formDalak = new FormDalak();
-            formDalak.ShowDialog();
-        }
+        
         private void btnMide_Click(object sender, EventArgs e)
         {
             FormMide formMide = new FormMide();
-            formMide.ShowDialog();
+            formMide.Show(); 
+            this.Hide();
         }
         private void btnInce_Click(object sender, EventArgs e)
         {
             FormInce formInce = new FormInce();
-            formInce.ShowDialog();
+            formInce.Show();
+            this.Hide();
         }
         private void btnKalın_Click(object sender, EventArgs e)
         {
             FormKalın formKalın = new FormKalın();
-            formKalın.ShowDialog();
+            formKalın.Show();
+            this.Hide();
         }
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -75,6 +77,52 @@ namespace BDO_Bahar_FinalProjesi
         private void icOrganlar_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
+
+        private void btnBobrek_Click(object sender, EventArgs e)
+        {
+            FormBobrek formBobrek = new FormBobrek();
+            formBobrek.Show();
+            this.Hide();
+        }
+
+        private void btnBeyin_Click_1(object sender, EventArgs e)
+        {
+        }
+
+        private void btnAkciger_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnKalp_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnKaraciger_Click_1(object sender, EventArgs e)
+        {
+        }
+
+        private void btnMide_Click_1(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void btnInce_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnKalın_Click_1(object sender, EventArgs e)
+        {
         }
     }
 }

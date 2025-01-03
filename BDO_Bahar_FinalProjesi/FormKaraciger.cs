@@ -55,7 +55,7 @@ namespace BDO_Bahar_FinalProjesi
             {
                 detail = "Common Bile Duct, safra kanalı olarak da bilinir. Karaciğer ve safra kesesi tarafından üretilen safra, common bile duct aracılığıyla onikiparmak bağırsağına taşınır. Burada yağların sindiriminde rol oynar.";
             }
-            else if (karacigerPart == "Hepatic Artery")
+            else if (karacigerPart == "Hepatic Artert")
             {
                 detail = "Hepatic Artery, karaciğer arteri olarak da bilinir. Karaciğere oksijenli kan taşır ve karaciğer hücrelerine besin sağlar. Karaciğer, hem oksijenli hem de besleyici kanı hepatic artery aracılığıyla alır.";
             }
@@ -67,5 +67,11 @@ namespace BDO_Bahar_FinalProjesi
             MessageBox.Show(detail, "Karaciğer Detayları - " + karacigerPart);
         }
 
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
     }
 }

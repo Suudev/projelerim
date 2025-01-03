@@ -21,3 +21,108 @@ C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_F
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalp.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKaraciger.resources
 C:\Users\KAYNAK\Desktop\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalın.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe.config
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.pdb
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.duyuOrganlari.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Form1.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAkciger.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBeyin.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalp.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalın.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKaraciger.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.icOrganlar.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.iskeletSistemi.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.kasSistemi.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Properties.Resources.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.pdb
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGoz.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKulak.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAgiz.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak_kas.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBobrek.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBurun.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormDeri.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde_kas.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormInce.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa_kas.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol_kas.resources
+C:\Users\cicikus\Desktop\Yeni klasör\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormMide.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe.config
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.pdb
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.duyuOrganlari.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Form1.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAgiz.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAkciger.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak_kas.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBeyin.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBobrek.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBurun.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormDeri.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde_kas.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGoz.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormInce.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa_kas.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalp.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalın.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKaraciger.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol_kas.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKulak.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormMide.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.icOrganlar.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.iskeletSistemi.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.kasSistemi.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Properties.Resources.resources
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\cicikus\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.pdb
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe.config
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\bin\Debug\BDO_Bahar_FinalProjesi.pdb
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.duyuOrganlari.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Form1.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAgiz.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormAkciger.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBacak_kas.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBeyin.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBobrek.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormBurun.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormDeri.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGovde_kas.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormGoz.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormInce.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKafa_kas.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalp.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKalın.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKaraciger.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKol_kas.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormKulak.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.FormMide.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.icOrganlar.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.iskeletSistemi.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.kasSistemi.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.Properties.Resources.resources
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.GenerateResource.cache
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.exe
+C:\Users\KAYNAK\Desktop\BDO_Final_Kodlar\bdo\Otomata\BDO_Bahar_FinalProjesi\obj\Debug\BDO_Bahar_FinalProjesi.pdb
